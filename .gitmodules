@@ -28,3 +28,6 @@
 [submodule "BoredApe | zsk1kIibEtRTtd62JMic"]
 	path = BoredApe | zsk1kIibEtRTtd62JMic
 	url = https://github.com/AMEESHAARACKAL/BoredApe
+[submodule "BoredApi | iRyPZZ8NFGQQJ01z7IpB"]
+	path = BoredApi | iRyPZZ8NFGQQJ01z7IpB
+	url = https://github.com/AMEESHAARACKAL/NotionAPI
