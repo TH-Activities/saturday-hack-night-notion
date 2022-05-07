@@ -55,3 +55,6 @@
 [submodule "greendrake | uvLCKn43oQGSg9TTCwAM"]
 	path = greendrake | uvLCKn43oQGSg9TTCwAM
 	url = https://github.com/mellofordev/notionhacknight.git
+[submodule "Daemons | I30xI8aIFcUs1X8zdHIL"]
+	path = Daemons | I30xI8aIFcUs1X8zdHIL
+	url = https://github.com/aravinds-arv/shn-notion-api
