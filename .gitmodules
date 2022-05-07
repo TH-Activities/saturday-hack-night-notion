@@ -52,3 +52,6 @@
 [submodule "trojans | AHLuYmPcdEGSO8CPXgWD"]
 	path = trojans | AHLuYmPcdEGSO8CPXgWD
 	url = https://github.com/unniznd/notion-api.git
+[submodule "greendrake | uvLCKn43oQGSg9TTCwAM"]
+	path = greendrake | uvLCKn43oQGSg9TTCwAM
+	url = https://github.com/mellofordev/notionhacknight.git
