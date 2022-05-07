@@ -58,3 +58,6 @@
 [submodule "Daemons | I30xI8aIFcUs1X8zdHIL"]
 	path = Daemons | I30xI8aIFcUs1X8zdHIL
 	url = https://github.com/aravinds-arv/shn-notion-api
+[submodule "Watashidake | d94niNkbr9l5PqXnfSwf"]
+	path = Watashidake | d94niNkbr9l5PqXnfSwf
+	url = https://github.com/SrutavTarun/Notion-API.git
