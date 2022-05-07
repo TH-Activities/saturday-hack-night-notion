@@ -61,3 +61,6 @@
 [submodule "Watashidake | d94niNkbr9l5PqXnfSwf"]
 	path = Watashidake | d94niNkbr9l5PqXnfSwf
 	url = https://github.com/SrutavTarun/Notion-API.git
+[submodule "ShodaCompany | tlHlOwr1Bdl4Nny79Njq"]
+	path = ShodaCompany | tlHlOwr1Bdl4Nny79Njq
+	url = https://github.com/UnnikrishnanNP/shn_notion_api
