@@ -9,10 +9,10 @@ Saturday Hack Night is not just your regular hackathon. Here, we will be buildin
 * API for this week is Notion API.
 
 ## Notion API
-Our APIs, SDKs, and live updating map data give developers tools to build better mapping, navigation, and search experiences across platforms.
+Notion Integrations can be built using Notion APIs. These Integrations can connect services to Notion and build interactive experiences for users within Notion. 
 
 Here are some cool ideas as sample.You can either modify these problem statements in your own way or else you can come up with your own brainstorming super cool ideas.
-- C Tracker : Lets find our friends live location using MapBox API
+- To-Do App : Everyone knows that Notion App for Phones sucks. It’s quite difficult for managing the tasks & tracking todo. Can you build a nice Todo App integrating Notion database with Notion APIs.
 - Budget Tracker : Who doesn’t love to have an awesome budget Tracker? What if it is integrated with Notion, & have some nice insights on your spendings . Here is an opportunity for you to build.
 
 ## Resources
